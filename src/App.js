@@ -160,7 +160,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo float-left float-lg-left" alt="logo" />
+          <img src="https://picsum.photos/200/300" className="App-logo float-left float-lg-left" alt="logo" />
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
